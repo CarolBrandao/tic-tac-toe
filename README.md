@@ -1,6 +1,6 @@
 This project is a tic-tac-toe game developed using React.
 
-## Available Scripts
+## Get Started
 
 In the project directory, you can run:
 
